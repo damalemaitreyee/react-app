@@ -59,7 +59,7 @@ export default Body = () => {
             const filteredList = listofRestaurants.filter(
               (res) => parseFloat(res.info.avgRatingString) > 4
             );
-            setListofRestaurants(filteredList);
+            setFilteredRestaurant(filteredList);
           }}
         >
           Top Rated Restaurants
