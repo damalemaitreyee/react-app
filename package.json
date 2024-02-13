@@ -3,11 +3,12 @@
   "version": "1.0.0",
   "description": "Namaste React Course",
   "homepage": "https://damalemaitreyee.github.io/react-app/",
+  "main": "app.js",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html",
     "test": "jest",
-    "predeploy": "npm run build",
+    "predeploy": "npm build",
     "deploy": "gh-pages -d dist"
   },
   "author": "Maitreyee Damale",
