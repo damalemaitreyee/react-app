@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Namaste React Course",
   "homepage": "https://damalemaitreyee.github.io/react-app/",
-  "main": "app.js",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html",
