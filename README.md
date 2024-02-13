@@ -1,5 +1,4 @@
-# react-app
-Namaste React Course
+Food Ordering App
 # Redux Toolkit
 - Install redux toolkit and react-redux
 - build the Store
